@@ -144,12 +144,12 @@ export const siteConfig: SiteConfig = {
 			title: "The Secret Garden", // 主页横幅主标题
 
 			subtitle: [
+				"人生如逆旅，我亦是行人",
 				"虽陷方寸境，一跃天地宽",
+				"好风凭借力，送我上青云",
 				"手提玉剑斥千军，昔日锦鲤化金龙",
-				"得胜已是定局，何必急功近利",
-				"乐嘉风起残云散，万钧雷震万千军",
-				"已极人臣之贵，当一尝人主之威",
-				"灭国擒主之功，古来几人",
+				"青山依旧在，几度夕阳红",
+				"小舟从此逝，江海寄余生",
 				"待得惊雷起，腾云跃井时",
 			],
 			typewriter: {
@@ -203,9 +203,9 @@ export const siteConfig: SiteConfig = {
 		},
 		cjkFont: {
 			// 中日韩字体 - 作为回退字体
-			fontFamily: "萝莉体 第二版",
+			fontFamily: "blog宋体",
 			fontWeight: "500",
-			localFonts: ["萝莉体 第二版.ttf"],
+			localFonts: ["blog宋体.ttf"],
 			enableCompress: true, // 启用字体子集优化，减少字体文件大小
 		},
 	},
