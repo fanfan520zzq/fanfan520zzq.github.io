@@ -120,7 +120,7 @@ export const siteConfig: SiteConfig = {
 		position: "center", // 等同于 object-position，仅支持 'top', 'center', 'bottom'。默认为 'center'
 
 		carousel: {
-			enable: false, // 为 true 时：为多张图片启用轮播。为 false 时：从数组中随机显示一张图片
+			enable: true, // 为 true 时：为多张图片启用轮播。为 false 时：从数组中随机显示一张图片
 			interval: 13.5, // 轮播间隔时间（秒）
 		},
 
@@ -148,7 +148,6 @@ export const siteConfig: SiteConfig = {
 				"虽陷方寸境，一跃天地宽",
 				"好风凭借力，送我上青云",
 				"手提玉剑斥千军，昔日锦鲤化金龙",
-				"青山依旧在，几度夕阳红",
 				"小舟从此逝，江海寄余生",
 				"待得惊雷起，腾云跃井时",
 			],
@@ -157,7 +156,7 @@ export const siteConfig: SiteConfig = {
 
 				speed: 300, // 打字速度（毫秒）
 				deleteSpeed: 80, // 删除速度（毫秒）
-				pauseTime: 400000, // 完全显示后的暂停时间（毫秒）
+				pauseTime: 4000, // 完全显示后的暂停时间（毫秒）
 			},
 		},
 
