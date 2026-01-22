@@ -25,7 +25,7 @@ export const siteConfig: SiteConfig = {
 	title: "Fan Fan Blog",
 	subtitle: "yyf的个人博客",
 	siteURL: "https://fanfan520zzq.github.io/", // 请替换为你的站点URL，以斜杠结尾
-	siteStartDate: "2025-01-21", // 站点开始运行日期，用于站点统计组件计算运行天数
+	siteStartDate: "2026-01-21", // 站点开始运行日期，用于站点统计组件计算运行天数
 
 	timeZone: SITE_TIMEZONE,
 
@@ -431,7 +431,7 @@ export const shareConfig: ShareConfig = {
 
 export const announcementConfig: AnnouncementConfig = {
 	title: "Announcement", // 公告标题
-	content: "Welcome to my blog! This is a sample announcement.", // 公告内容
+	content: "什么都不会但什么都在学的小小白", // 公告内容
 	closable: true, // 允许用户关闭公告
 	link: {
 		enable: true, // 启用链接
