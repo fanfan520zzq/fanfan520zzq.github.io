@@ -2,7 +2,7 @@
 title: 给汤圆的一封信
 published: 2026-02-13
 pinned: true
-description: letter
+description: 青青子衿，悠悠我心
 tags: [Md, hahaha]
 category: testhahahaa
 licenseName: "Unlicensed"
